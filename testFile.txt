@@ -1,3 +1,6 @@
 this is new test file...in master branch
 this is a file edited in master
 
+=======
+this is edited in testing2 barch
+>>>>>>> testing2
